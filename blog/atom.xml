@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/lcrb/blog</id>
-    <title>LangChain.rb Blog</title>
+    <title>🔗 💎 Blog</title>
     <updated>2023-06-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/lcrb/blog"/>
-    <subtitle>LangChain.rb Blog</subtitle>
+    <subtitle>🔗 💎 Blog</subtitle>
     <icon>https://your-docusaurus-test-site.com/lcrb/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
