@@ -64,11 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'LangChain.rb',
-        logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
-        },
+        title: '🔗 💎 Langchain.rb',
         items: [
           {
             type: 'docSidebar',
@@ -100,12 +96,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discord.com/channels/1081742403460923484/1103103666254250064',
+                href: 'https://discord.com/channels/1119363322605744331/1119363323117436982',
               },
               {
                 label: 'Twitter',
