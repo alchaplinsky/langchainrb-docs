@@ -9,7 +9,7 @@ const FeatureList = [
     description: (
       <>
         <div className="mb-2">Choose the LLM provider you'll be using:</div>
-        <ul>
+        <ul className="feature-list">
           <li>OpenAI</li>
           <li>Goole PaLM 2</li>
           <li>Cohere</li>
@@ -24,7 +24,7 @@ const FeatureList = [
     description: (
       <>
        <div className="mb-2">Pick the vector search database you'll be using:</div>
-       <ul>
+       <ul className="feature-list">
           <li>Weaviate</li>
           <li>Chroma</li>
           <li>Pinecone</li>
@@ -39,7 +39,7 @@ const FeatureList = [
     description: (
       <>
         <div className="mb-2">Load text data with ease from:</div>
-        <ul>
+        <ul className="feature-list">
           <li>URL</li>
           <li>PDF</li>
           <li>JSON</li>

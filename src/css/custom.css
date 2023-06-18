@@ -41,7 +41,7 @@
   margin-bottom: 1rem;
 }
 
-ul {
+.feature-list {
   display: inline-block;
   text-align: left;
   margin: 0 auto;
