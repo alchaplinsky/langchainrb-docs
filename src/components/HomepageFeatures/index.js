@@ -4,32 +4,47 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Integrate with LLM',
+    Svg: require('@site/static/img/undraw_typing.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        <div className="mb-2">Choose the LLM provider you'll be using:</div>
+        <ul>
+          <li>OpenAI</li>
+          <li>Goole PaLM 2</li>
+          <li>Cohere</li>
+          <li>HuggingFace</li>
+        </ul>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Use with Vector Search Databases',
+    Svg: require('@site/static/img/undraw_server_cluster.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       <div className="mb-2">Pick the vector search database you'll be using:</div>
+       <ul>
+          <li>Weaviate</li>
+          <li>Chroma</li>
+          <li>Pinecone</li>
+          <li>Pgvector</li>
+        </ul>
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Easy data loading',
+    Svg: require('@site/static/img/undraw_text_files.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        <div className="mb-2">Load text data with ease from:</div>
+        <ul>
+          <li>URL</li>
+          <li>PDF</li>
+          <li>JSON</li>
+          <li>CSV</li>
+        </ul>
       </>
     ),
   },

@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'LangChain.rb',
-  tagline: 'Dinosaurs are cool',
+  title: '🔗 💎',
+  tagline: 'Langchain.rb is a Ruby toolset for building AI/ML powered applications.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
