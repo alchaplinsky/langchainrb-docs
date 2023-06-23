@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklangchain=self.webpackChunklangchain||[]).push([[8110],{2505:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/langchainrb-docs/blog/tags/docusaurus","allTagsPath":"/langchainrb-docs/blog/tags","count":1}')}}]);
