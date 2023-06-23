@@ -1,0 +1,8 @@
+{
+  "label": "Agents",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Agents are semi-autonomous bots that can respond to user questions and use available to them Tools to provide informed replies."
+  }
+}

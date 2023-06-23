@@ -1,8 +1,0 @@
-{
-  "label": "Conversation",
-  "position": 5,
-  "link": {
-    "type": "generated-index",
-    "description": "Langchain.rb provides a common interface to interact with all supported vector databases."
-  }
-}
