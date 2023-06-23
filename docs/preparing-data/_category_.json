@@ -1,8 +1,8 @@
 {
   "label": "Preparing Data",
-  "position": 5,
+  "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Langchain.rb provides various classes to load, process and chunk data before sending it off to a vector database."
   }
 }
